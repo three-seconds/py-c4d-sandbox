@@ -1,5 +1,5 @@
 # py-c4d-sandbox
-Collection of different python scripts, generators, tags for Cinema4D
+Collection of different python scripts, generators, tags for Cinema4D.
 Intented for learning purposes and quick code snippet access.   
 
 The files are separated in folders named by their different python usage: As tag, in a generator, as effector or within xpresso.
