@@ -1,5 +1,6 @@
 # py-c4d-sandbox
 Collection of different python scripts, generators, tags for Cinema4D
+Intented for learning purposes and quick code snippet access.   
 
 The files are separated in folders named by their different python usage: As tag, in a generator, as effector or within xpresso.
 The scripts definitely aren't perfect. They all have their flaws and most of them had quite a special usage within the GUNEE Homme Project (https://vimeo.com/326856047). 
